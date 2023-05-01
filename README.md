@@ -1,0 +1,1 @@
+Summarized key points of each book I have read, categorized according to its collection or use:
