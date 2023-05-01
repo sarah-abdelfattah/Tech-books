@@ -1,6 +1,6 @@
  # Clean Agile
 
-Book by Robert CeC.cil Martin
+Book by Robert C. Martin
 - [Chapter 1: Introduction to Agile](#chapter-1-introduction-to-agile)
 - [Chapter 2: The Reasons For Agile](#chapter-2-the-reasons-for-agile)
 - [Chapter 3: Business Practices](#chapter-3-business-practices)
